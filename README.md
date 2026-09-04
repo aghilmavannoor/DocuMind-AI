@@ -4,6 +4,12 @@ An AI-powered PDF Research Assistant built using Retrieval-Augmented Generation 
 
 DocuMind AI allows users to upload a PDF, ask questions about its content, retrieve the most relevant sections using semantic similarity, and generate answers using Gemini.
 
+## 🚀 Live Demo
+
+👉 [Try DocuMind AI](https://documind-ai-bbaouysrdy2yaiwqdkeptu.streamlit.app/)
+
+
+
 ## 🚀 Features
 
 - Upload PDF documents
